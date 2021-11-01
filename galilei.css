@@ -77,3 +77,8 @@ body::-webkit-scrollbar-button {
 	top: 110%;
 	left: 40%;
 }
+.form{
+	position: absolute;
+	top: 10%;
+	left: 40%;
+}
