@@ -26,7 +26,7 @@
 	top: 10%;
 	left: 30%;
 }
-@media only screen and (max-width:500px) {
+@media (max-width:500px) {
 html{
 	margin: 0px;
 	padding: 0px;
