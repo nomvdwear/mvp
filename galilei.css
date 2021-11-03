@@ -1,8 +1,6 @@
 @media  (min-width:1024px){
 *{
 	font-family: 'Roboto', sans-serif;
-}
-	html{
 	background-color: #fff;
 }
 .galilei-logo{
@@ -21,23 +19,42 @@
 	top: 10%;
 	left: 30%;
 }
-@media (max-width:767px) {
-html{
+}
+@media screen and (min-width: 768px) and (max-width: 1023px){
+*{
 	background-color: #fff;
 }
 .galilei-logo{
-	height: 40px;
-	width: 64px;
 	position: absolute;
-	order: 1;
-	top: 70px;
-	left: -10px;
+	top: 0%;
+	left: 0%;
+	height: 20px;
+	width: 100%;
 	background-color: #fff;
-	border-left: 100px solid #fff;
-	border-bottom: 20px solid #fff;
-	border-top: 20px solid #fff;
-	border-right: 40px solid #fff;
-	box-shadow: 0px 0px 7px 7px #eee;
+	box-shadow: 0px 0px 20px 20px #e3e3e3;
+	border-top: 10px solid #fff;
+	border-bottom: 10px solid #fff;
+}
+.form{
+	position: absolute;
+	top: 30%;
+	left: 0%;
+}
+}
+@media (max-width:767px) {
+*{
+	background-color: #fff;
+}
+.galilei-logo{
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	height: 20px;
+	width: 100%;
+	background-color: #fff;
+	box-shadow: 0px 0px 20px 20px #e3e3e3;
+	border-top: 10px solid #fff;
+	border-bottom: 10px solid #fff;
 }
 .form{
 	position: absolute;
