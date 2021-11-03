@@ -10,10 +10,9 @@
 	width: 100%;
 	position: absolute;
 	order: 1;
-	top: 70px;
-	left: -10px;
+	top: 0%;
+	left: 0%;
 	background-color: #fff;
-	border-left: 100px solid #fff;
 }
 }
 .form{
