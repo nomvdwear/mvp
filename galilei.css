@@ -7,17 +7,13 @@
 }
 .galilei-logo{
 	height: 20px;
-	width: 34px;
+	width: 100%;
 	position: absolute;
 	order: 1;
 	top: 70px;
 	left: -10px;
 	background-color: #fff;
 	border-left: 100px solid #fff;
-	border-bottom: 20px solid #fff;
-	border-top: 20px solid #fff;
-	border-right: 10px solid #fff;
-	box-shadow: 0px 0px 7px 7px #eee;
 }
 }
 .form{
